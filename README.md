@@ -9,7 +9,6 @@ Welcome to **FoodieFinder** – your ultimate companion for exploring a food sto
 - **Personalized Recommendations** 🎯: Discover items tailored to your past purchases and preferences.
 - **Powerful Search** 🔍: Find what you need with filters like price or dietary options—pagination included!
 - **User-Friendly** 👤: Adapts to your favorite categories and restrictions.
-- **Secure** 🔒: Keeps your data safe with top-notch authentication.
 
 ---
 
